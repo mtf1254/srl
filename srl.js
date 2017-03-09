@@ -14,5 +14,8 @@ var MessageBox = React.createClass({
 			}
 		)
 
+
 		
 	alert('我是马腾飞')
+	
+		
