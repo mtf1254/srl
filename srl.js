@@ -15,4 +15,4 @@ var MessageBox = React.createClass({
 		)
 
 		
-		lkj
+	alert('我是马腾飞')
